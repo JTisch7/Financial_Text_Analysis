@@ -2,7 +2,9 @@
 Modeling financial text
 
 API_DataPulls : 
-newsfilteriioPull.py - script to pull historical news data from newsfilter.io's API polygonPull.py - script to pull historical stock price data from polygon.io's API redditDataPull.py - script to pull historical reddit submissions data from pushshift.io (an API with historical reddit data)
+newsfilteriioPull.py - script to pull historical news data from newsfilter.io's API 
+polygonPull.py - script to pull historical stock price data from polygon.io's API 
+redditDataPull.py - script to pull historical reddit submissions data from pushshift.io (an API with historical reddit data)
 
 Bert_HuggingFaceTransformers : 
 A BERT model from Hugging Face Transformers.
